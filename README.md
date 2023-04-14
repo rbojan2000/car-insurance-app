@@ -4,3 +4,4 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Video demo](#video-demo)
