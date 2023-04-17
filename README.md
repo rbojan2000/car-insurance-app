@@ -25,6 +25,7 @@ Project is created with:
 * Java Spring Boot 2.7.8
 * React 18.2.0
 * Redux 8.0.5
+* MySQL Database
 
 
 ## Setup
